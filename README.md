@@ -25,7 +25,7 @@ Este projeto carrega o conteúdo de uma página web (especificamente, extrai o t
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/web-scraping-ia.git
+   gh repo clone danilloraymond7/webScraping-llm
     cd web-scraping-ia
     ```
 
@@ -88,14 +88,4 @@ Conteúdo do site:
 `;
 ```
 
-## Contribuições
 
-Sinta-se à vontade para abrir um *pull request* ou relatar *issues* se você encontrar algum problema ou tiver sugestões para melhorias!
-
-## Licença
-
-Este projeto está licenciado sob a Licença ISC.
-
----
-
-Esse `README.md` oferece uma descrição completa do funcionamento do seu projeto, como instalá-lo, como utilizá-lo, e até mesmo como personalizá-lo. Se precisar de mais alguma coisa ou ajustes, é só me avisar!
