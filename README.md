@@ -38,7 +38,7 @@ Este projeto carrega o conteúdo de uma página web (especificamente, extrai o t
 3. Crie um arquivo `.env` na raiz do projeto e adicione sua chave da API OpenAI:
 
     ```
-    OPENAI_API_KEY=SuaChaveDaApiOpenAI
+    API_KEY_OPENAI=SuaChaveDaApiOpenAI
     ```
 
 ## Como Usar
