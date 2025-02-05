@@ -26,7 +26,7 @@ Este projeto carrega o conteúdo de uma página web (especificamente, extrai o t
 
     ```bash
    gh repo clone danilloraymond7/webScraping-llm
-    cd web-scraping-ia
+    cd webScraping-llm
     ```
 
 2. Instale as dependências do projeto:
